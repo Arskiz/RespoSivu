@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: rgb(90, 90, 90);
     transition-property: all;
     transition-duration: 1s;
 }
@@ -13,21 +13,26 @@ body{
     justify-content: space-between;
     margin: 10px;
     text-align: center;
+
 }
   
 .flex-left-right-item {
-    border: 1px solid black;
+    border: 1px solid #7cb35b;
+    border-radius: 10px;
+    background-color: rgb(158, 255, 149);
     width: 10%; /* adjust the width of each item */
 }
 .flex-middle-item {
     background-color: #a4ff6c;
     border: 1px solid #7cb35b;
+    border-radius: 10px;
     width: 100%;
 }
 
 .flex-up-down-item{
     background-color: #52bdff;
     border: 1px solid #387ca7;
+    border-radius: 10px;
 }
 
 .left-right-item-left{
