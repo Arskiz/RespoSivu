@@ -4,7 +4,7 @@
         let TitlePage1 = "Iloinen Kissa :)";
         let TitlePage2 = "Vihainen Kissa >:(";
         let TitlePage3 = "Musta Kissa ⬛";
-        let TitlePage4 = "Pieni Kissanpentu ❤️";
+        let TitlePage4 = "Pieni Kissanpentu";
 
         // Leipätekstit
         let TextPage1 = "Tässä on kissa, jolla on hymyilevä suu, ja jonka korvat näyttää hävinneen kokonaan."
@@ -17,13 +17,13 @@
         let WhatPage1 = "Iloinen Kissa :)";
         let WhatPage2 = "Vihainen Kissa >:(";
         let WhatPage3 = "Musta Kissa ⬛";
-        let WhatPage4 = "Pieni Kissanpentu ❤️";
+        let WhatPage4 = "Pieni Kissanpentu";
 
         // Missä?
         let WherePage1 = "Kissa on kotonaan iloisena."
         let WherePage2 = "Kissa on jossain, jossa on valkoinen tausta."
         let WherePage3 = "Musta kissa on mahdollisesti kotonaan ja tuijottaa kameraan :DDDD";
-        let WherePage4 = "Pieni Kissanpentu miukuu kameralle päin istuen lattialla ❤️❤️";
+        let WherePage4 = "Pieni Kissanpentu miukuu kameralle päin istuen lattialla";
 
         // Miksi?
         let WhyPage1 = "Koska häntä hymyilytti :D"

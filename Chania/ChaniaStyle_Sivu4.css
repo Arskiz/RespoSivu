@@ -3,7 +3,7 @@
     border-radius: 10px;
   }
   body{
-    background-color: rgb(250, 253, 176);
+    background-color: rgb(212, 212, 212);
   }
   .row::after {
     content: "";
@@ -22,9 +22,14 @@
   
   .header {
     display: flex;
-    background-color: rgb(210, 153, 110);
+    background-color: rgb(185, 185, 185);
     color: black;
     padding: 15px;
+  }
+
+  
+  #selected{
+    background-color: rgb(95, 95, 95);
   }
 
   #KissaKuva{
@@ -48,7 +53,7 @@
     border-radius: 5px;
     border: solid 1px rgb(51, 51, 51);
     padding: 5px;
-    background-color: rgb(255, 185, 132);
+    background-color: rgb(233, 233, 233);
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
@@ -60,7 +65,7 @@
     border: solid 1px rgb(68, 68, 68);
     padding: 5px;
     font-size: larger;
-    background-color: rgb(255, 163, 93);
+    background-color: rgb(128, 128, 128);
     color: rgb(80, 80, 80);
   }
   a {
@@ -78,7 +83,7 @@
   .menu li {
     padding: 8px;
     margin-bottom: 7px;
-    background-color: rgb(255, 164, 94);
+    background-color: rgb(185, 185, 185);
     color: #ffffff;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 
@@ -87,14 +92,14 @@
   }
   
   .menu li:hover {
-    background-color: rgb(210, 153, 110);
+    background-color: rgb(141, 141, 141);
     font-size: larger;
   }
   
   .aside {
     transition-duration: 1s;
     transition-property: all;
-    background-color: rgb(210, 153, 110);
+    background-color: rgb(185, 185, 185);
     padding: 15px;
     color: #000000;
     text-align: center;
@@ -109,7 +114,7 @@
   }
   
   .footer {
-    background-color: rgb(210, 153, 110);
+    background-color: rgb(185, 185, 185);
     color: #000000;
     text-align: center;
     font-size: 12px;

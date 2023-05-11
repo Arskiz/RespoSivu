@@ -20,6 +20,10 @@
     font-family: "Lucida Sans", sans-serif;
   }
   
+  #selected{
+    background-color: rgb(253, 125, 27);
+  }
+  
   .header {
     display: flex;
     background-color: rgb(210, 153, 110);

@@ -91,7 +91,7 @@
   }
   
   .menu li:hover {
-    background-color: rgb(210, 153, 110);
+    background-color: rgb(112, 112, 112);
     font-size: larger;
   }
   
@@ -125,6 +125,9 @@
     width: 100%;
   }
 
+  #selected{
+    background-color: rgb(146, 146, 146);
+  }
   
   @media only screen and (min-width: 600px) {
     /* For tablets: */
