@@ -14,36 +14,40 @@ body{
     text-align: center;
 }
   
+/* Itemit */
 .flex-left-right-item {
-    border: 1px solid #7cb35b;
+    background-color: #c7b7b7;
+    border: 1px solid #444444;
     border-radius: 10px;
-    background-color: rgb(158, 255, 149);
     width: 15%; /* adjust the width of each item */
 }
-.flex-middle-item {
-    background-color: #a4ff6c;
-    border: 1px solid #7cb35b;
+
+.flex-middle-item { /* Iso  */
+    background-color: #d4d4d4;
+    border: 1px solid #444444;
     border-radius: 10px;
     width: 100%;
 }
 
 .flex-up-down-item{
-    background-color: #52bdff;
-    border: 1px solid #387ca7;
+    background-color: #8d8d8d;
+    border: 1px solid #000000;
     width: 100%;
     border-radius: 10px;
 }
 
+/* Keski Itemit */
 .left-right-item-left{
     margin: 5px;
 }
 .left-right-item-middle{
     margin: 5px;
 }
-
 .left-right-item-right{
     margin: 5px;
 }
+
+/* Tekstit */
 .textCenter{
     margin: 10px;
     font-size: large;
@@ -54,9 +58,17 @@ body{
 .textCenterBIG{
     font-weight: bold;
     margin: 10px;
-    font-size: 40px;
+    font-size: 30px;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+.textCenterTitle{
+    font-weight: bold;
+    margin: 10px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
 }
 .textLeft{ 
