@@ -4,16 +4,14 @@ body{
     transition-duration: 1s;
 }
 .flexbox-up-down-container{
-    margin: 10px;
+    margin: 5px;
     display: flex;
     text-align: center;
 }
 .flexbox-left-right-container {
     display: flex;
     justify-content: space-between;
-    margin: 10px;
     text-align: center;
-
 }
   
 .flex-left-right-item {
@@ -37,17 +35,13 @@ body{
 
 .left-right-item-left{
     margin: 5px;
-    
 }
 .left-right-item-middle{
     margin: 5px;
-    
 }
 
 .left-right-item-right{
-    
     margin: 5px;
-    padding: 4px;
 }
 .text{
     color: black;
