@@ -1,5 +1,5 @@
 body{
-    background-color: #387ca7;
+    background-color: white;
     transition-property: all;
     transition-duration: 1s;
 }
@@ -16,8 +16,7 @@ body{
 }
   
 .flex-left-right-item {
-    background-color: #a4ff6c;
-    border: 1px solid #7cb35b;
+    border: 1px solid black;
     width: 10%; /* adjust the width of each item */
 }
 .flex-middle-item {
@@ -32,18 +31,18 @@ body{
 }
 
 .left-right-item-left{
-    margin: 10px;
-    padding: 20px;
+    margin: 5px;
+    
 }
 .left-right-item-middle{
-    margin: 10px;
-    padding: 20px;
+    margin: 5px;
+    
 }
 
 .left-right-item-right{
     
-    margin: 10px;
-    padding: 20px;
+    margin: 5px;
+    padding: 4px;
 }
 .text{
     color: black;
