@@ -18,7 +18,7 @@ body{
     border: 1px solid #7cb35b;
     border-radius: 10px;
     background-color: rgb(158, 255, 149);
-    width: 10%; /* adjust the width of each item */
+    width: 15%; /* adjust the width of each item */
 }
 .flex-middle-item {
     background-color: #a4ff6c;
@@ -30,6 +30,7 @@ body{
 .flex-up-down-item{
     background-color: #52bdff;
     border: 1px solid #387ca7;
+    width: 100%;
     border-radius: 10px;
 }
 
@@ -44,15 +45,17 @@ body{
     margin: 5px;
 }
 .textCenter{
+    margin: 10px;
     font-size: large;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
 }
 .textCenterBIG{
-    text-decoration:underline;
+    font-weight: bold;
+    margin: 10px;
     font-size: 40px;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
 }
